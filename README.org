@@ -1,0 +1,4 @@
+#+AUTHOR: J. Alexander Branham
+#+TITLE: Pandoc - a graduate student guide
+
+This repo houses files meant to compliment a few blog posts I wrote. The series starts [[http://jabranham.com/blog/2016/11/using-pandoc-a-grad-student-guide/][here]]. 
